@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'AfacadFlux-Regular';
+    src: url('../public/fonts/Afacad_Flux/static/AfacadFlux-Regular.ttf') format('truetype'); /* Adjust the path and format based on the font type */
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  body {
+    font-family: 'AfacadFlux-Regular';
+  }
